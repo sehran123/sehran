@@ -1,0 +1,7 @@
+SCRN - YXX.XYX.XXY.YXY.XX.
+PLCNSL - +---.++--.---+.--+.+-.-++-.++--.+.---+.YX.YY.YX.
+velaAcc - Sehran@19
+mainAcc - Mintorian@19
+FMPE - YX.YY.YX.YY.XY.YY.
+ADHRNM - XYY.YXX.XY.YYX.XYX.YY.YY.YYX.YY.XY.XYY.XYX.
+PRVCI - YXX.YXY.YX.XX.YX.YY.
